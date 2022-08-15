@@ -1,7 +1,7 @@
 ### Prazer, Leonardo.
 
-Iniciando na area da programação e cursando na 
-https://www.devmedia.com.br/
+Iniciando na area da programação e atualmente cursando:
+https://www.devmedia.com.br/cursos/concluido/
 
 <div align="center">
   <a href="https://github.com/LeoCheettos">
